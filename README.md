@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alikhan Smagulov
 - 🔥 I’m interested in Video Games, Volleyball, Basketball and Surfing
-- 📖 I’m currently learning C++
-- 👀 I’m looking for an Internship at an IT company
+- 📖 Fluent in Java and Lua, currently learning C++
+- 👀 Open to work
 - 📫 How to reach me
 - alikhansmagulov63@gmail.com
