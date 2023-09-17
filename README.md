@@ -3,4 +3,4 @@
 - 📖 I’m currently learning C++
 - 👀 I’m looking for an Internship at an IT company
 - 📫 How to reach me
-- www.linkedin.com/in/alikhan-smagulov-42330128a
+- alikhansmagulov63@gmail.com
